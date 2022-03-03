@@ -9,7 +9,7 @@
     A functional non-responsive Google clone using HTML, CSS and JS.
     <br />
     <br />
-    <a href="https://toothie.netlify.app/">View Demo</a>
+    <a href="https://aleiva17.github.io/google-clone/">View Demo</a>
   </p>
 </div>
 
